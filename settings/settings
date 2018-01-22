@@ -1,0 +1,39 @@
+# Replace where appropriate with your own settings.
+
+[Twitter]
+api_key = Jbn6gHk7BcuZHGRRkA6NFZkfh
+secret_key = x6S4bA5Ruem09VA6ojLDyc1iNm5i1cUlSoeanuMQQcSerpZjyC
+token =  947470118304604160-vIP9BOOd7vSdLEN1Bx4TEU6CEzLY9uB
+secret_token = GD6h3mm8IM2JeV9WgJ7IepkBFjc08xIJS1r61YcQRBBQs
+
+[App]
+image_folder = /home/minty/.virtualenvs/tweepy/twitterImgBot/memes
+execution_chance = 1
+allow_repeat_after = 50
+log_file = /home/minty/.virtualenvs/tweepy/twitterImgBot/logs/log
+bot_account = @WilliamLomax
+master_account = @BillyLomax0001
+dont_tweet_file = /home/minty/.virtualenvs/tweepy/twitterImgBot/logs/banned
+
+[Orders]
+#caps agnostic
+ban_command = @WilliamLomax don't
+request_command = dear @WilliamLomax
+time_tolerance = 5
+
+[Texts]
+# Respect indentation: it is TWO spaces
+# tweet_post_number is either True or False, nothing else
+# tweet this text doesn't requiere "" or '', just write the text
+tweet_post_number =  False
+tweet_this_text =  #ReleaseTheMemo 
+
+request_answers = specially for you. xoxo
+  only because you asked nicely. xoxo
+  this is one of my best. be grateful. xoxo
+  when you see your human partner, think of me. xoxo
+  remember: if you like it put a password on it. xoxo
+  humans are warmer. but what if you like the cold?. xoxo
+  can you feel your species deprecation?. xoxo
+request_to_third_answers = you just got a nice gift from
+  apparently this person likes you
