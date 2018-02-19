@@ -1,4 +1,4 @@
-import twitterbot
+import tweepy
 import unittest
 from unittest.mock import MagicMock
 from unittest.mock import patch
@@ -146,4 +146,3 @@ class TestMainFunction(unittest.TestCase):
         mock_handle_tweet_posting.assert_called_once_with('automatic testing', None, False)
         warning_string = "!CRITICAL! No non-repeated or non-banned images found"
         mock_add_warning_to_log.assert_called_once_with(0, warning_string, 'log_file')
-

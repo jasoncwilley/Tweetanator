@@ -1,0 +1,2106 @@
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 3, in <module>
+    import tweepy
+  File "/usr/lib/python3.6/site-packages/tweepy/__init__.py", line 14, in <module>
+    from tweepy.api import API
+  File "/usr/lib/python3.6/site-packages/tweepy/api.py", line 12, in <module>
+    from tweepy.binder import bind_api
+  File "/usr/lib/python3.6/site-packages/tweepy/binder.py", line 11, in <module>
+    import requests
+  File "/usr/lib/python3.6/site-packages/requests/__init__.py", line 43, in <module>
+    import urllib3
+  File "/usr/lib/python3.6/site-packages/urllib3/__init__.py", line 8, in <module>
+    from .connectionpool import (
+  File "/usr/lib/python3.6/site-packages/urllib3/connectionpool.py", line 28, in <module>
+    from .packages.six.moves import queue
+  File "<frozen importlib._bootstrap>", line 1020, in _handle_fromlist
+  File "/usr/lib/python3.6/site-packages/urllib3/packages/six.py", line 92, in __get__
+    result = self._resolve()
+  File "/usr/lib/python3.6/site-packages/urllib3/packages/six.py", line 115, in _resolve
+    return _import_module(self.mod)
+  File "/usr/lib/python3.6/site-packages/urllib3/packages/six.py", line 82, in _import_module
+    __import__(name)
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 779, in get_code
+  File "<frozen importlib._bootstrap_external>", line 487, in _compile_bytecode
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 3, in <module>
+    import tweepy
+  File "/usr/lib/python3.6/site-packages/tweepy/__init__.py", line 14, in <module>
+    from tweepy.api import API
+  File "/usr/lib/python3.6/site-packages/tweepy/api.py", line 12, in <module>
+    from tweepy.binder import bind_api
+  File "/usr/lib/python3.6/site-packages/tweepy/binder.py", line 11, in <module>
+    import requests
+  File "/usr/lib/python3.6/site-packages/requests/__init__.py", line 97, in <module>
+    from . import utils
+  File "/usr/lib/python3.6/site-packages/requests/utils.py", line 26, in <module>
+    from ._internal_utils import to_native_string
+  File "/usr/lib/python3.6/site-packages/requests/_internal_utils.py", line 11, in <module>
+    from .compat import is_py2, builtin_str, str
+  File "/usr/lib/python3.6/site-packages/requests/compat.py", line 59, in <module>
+    from http import cookiejar as cookielib
+  File "/usr/lib/python3.6/http/cookiejar.py", line 222, in <module>
+    \s*$""", re.X | re.ASCII)
+  File "/usr/lib/python3.6/re.py", line 233, in compile
+    return _compile(pattern, flags)
+  File "/usr/lib/python3.6/re.py", line 301, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/usr/lib/python3.6/sre_compile.py", line 566, in compile
+    code = _code(p, flags)
+  File "/usr/lib/python3.6/sre_compile.py", line 551, in _code
+    _compile(code, p.data, flags)
+  File "/usr/lib/python3.6/sre_compile.py", line 146, in _compile
+    _compile(code, p, (flags | add_flags) & ~del_flags)
+  File "/usr/lib/python3.6/sre_compile.py", line 187, in _compile
+    _compile(code, av, flags)
+  File "/usr/lib/python3.6/sre_compile.py", line 72, in _compile
+    if (flags & SRE_FLAG_IGNORECASE and
+  File "/usr/lib/python3.6/enum.py", line 804, in __and__
+    return self.__class__(self._value_ & self.__class__(other)._value_)
+  File "/usr/lib/python3.6/enum.py", line 265, in __call__
+    def __call__(cls, value, names=None, *, module=None, qualname=None, type=None, start=1):
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'
+Traceback (most recent call last):
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/twitterbot.py", line 3, in <module>
+    from settings import config
+  File "/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/config.py", line 10, in <module>
+    config.read(dname + '/settings')
+  File "/usr/lib/python3.6/configparser.py", line 697, in read
+    self._read(fp, filename)
+  File "/usr/lib/python3.6/configparser.py", line 1111, in _read
+    raise e
+configparser.ParsingError: Source contains parsing errors: '/home/minty/.virtualenvs/tweepy/twitterImgBot/settings/settings'
+	[line  8]: 'pp]\n'

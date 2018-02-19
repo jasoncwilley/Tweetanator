@@ -1,0 +1,9 @@
+
+*.pyc
+*.swp
+
+logs/banned
+logs/log
+settings/settings
+memes
+memes_guns
