@@ -1,4 +1,6 @@
 import datetime
+from bot import twitterbot
+
 """These functions log everything. To-do: actually use the standar logger
 module."""
 
@@ -37,4 +39,3 @@ def add_warning_to_log(last_post_number, warning, log_file):
     """
     log_warning_line = last_post_number + '\t' + date + '\t' + warning + '\n'
     add_line_to_log(log_warning_line, log_file)
-

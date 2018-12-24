@@ -12,6 +12,7 @@ def mentions(bot_account, api):
     mentions = []
     for tweet in api.search(bot_account):
         mentions.append(tweet)
+    print('mentions')
     return mentions
 
 

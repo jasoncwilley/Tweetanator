@@ -1,19 +1,18 @@
 # Replace where appropriate with your own settings.
 
 [Twitter]
-api_key = m0T6wxc3wN3C1Ao70hkGEqea4
-secret_key = x72uecwKVvPhkiNv9IlLUt7J04YI0qVqwopzzG18flVNAEPdok
-token =   947470118304604160-oHYZ33fVKgLJaiLlcxZvFon5x9aq8S9
-secret_token = 9H8rnTK3EafmLaJrpGU8E5MdimyOhrxQV4Lklg5TTNREQ
-
+api_key = GPbBy8z2oRrAUhrw9cdi67UcL
+secret_key = E1B8Ev5swvfdeNiLxzj1okJE80QD8dCoe4C4z1eIg5r35kbLf8
+token =   947470118304604160-oEO8RoWMgYBpiqjgzbIl2Nl1bGHeNLz
+secret_token = PxRhlaearS9f7ake4m45PDkMUM0NwpZg8V6gjUpMWSxen
 [App]
-image_folder = /home/minty/.virtualenvs/tweepy/twitterImgBot/memes-guns/
+image_folder = /home/minty/.virtualenvs/twatter/Tweetanator/memes/
 execution_chance = 1
 allow_repeat_after = 50
-log_file = /home/minty/.virtualenvs/tweepy/twitterImgBot/logs/log
+log_file = /home/minty/.virtualenvs/twatter/Tweetanator/logs/log
 bot_account = @WillamLomax
 master_account = @BillyLomax0001
-dont_tweet_file = /home/minty/.virtualenvs/tweepy/twitterImgBot/logs/banned
+dont_tweet_file = /home/minty/.virtualenvs/twatter/Tweetanator/logs/banned
 
 [Orders]
 #caps agnostic
@@ -26,7 +25,7 @@ time_tolerance = 100
 # tweet_post_number is either True or False, nothing else
 # tweet this text doesn't requiere "" or '', just write the text
 tweet_post_number =  False
-tweet_this_text =  Common Sense Will Prevail @babyjenkinson84 @antischool_ftw #MarchForOurLives
+tweet_this_text = #wwg1wga #MAGA
 
 request_answers = specially for you. xoxo
   only because you asked nicely. xoxo
